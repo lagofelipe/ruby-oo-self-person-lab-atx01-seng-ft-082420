@@ -1,6 +1,4 @@
-
-# your code goes here	require 'p
-# your code goes here	require 'pry'
+require 'pry'
 
 class Person
 
